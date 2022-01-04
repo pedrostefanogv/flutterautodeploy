@@ -25,6 +25,10 @@ jobs:
           # channel: 'beta' # 'dev', 'alpha', default to: 'stable'
           flutter-version: "2.5" # you can also specify exact version of flutter
 
+      # Flutter update
+      - run: flutter update
+
+      
       # Get flutter dependencies.
       - run: flutter pub get
 
