@@ -1,6 +1,7 @@
 # autodeploy
 
-A new Flutter project.
+Projeto de referencia 
+https://dev.to/felipemsfg/publicacao-automatica-de-um-app-flutter-na-playstore-com-github-actions-i4b
 
 ## Getting Started
 
