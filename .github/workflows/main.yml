@@ -20,10 +20,10 @@ jobs:
           java-version: "12.x"
 
       # Setup the flutter environment.
-      - uses: subosito/flutter-action@v2
+      - uses: subosito/flutter-action@v1
         with:
           # channel: 'beta' # 'dev', 'alpha', default to: 'stable'
-          flutter-version: "2.5" # you can also specify exact version of flutter
+          flutter-version: "2.0.5" # you can also specify exact version of flutter
 
       # Flutter update
       # - run: flutter update
